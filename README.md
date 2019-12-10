@@ -1,7 +1,3 @@
-Install with:
-
-
-
 1) Download and extract repo into same folder as concert .xlsx files
 
 2) Install: 
