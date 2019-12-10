@@ -1,0 +1,9 @@
+Sum(U) 
+- count of attendees per concert [Number]
+- total count of attendees for all 5 concerts  [Number]
+
+Combine every column H and column U from all 5 sheets together
+- match zip codes to PA counties [Table]
+- match zip codes outside PA to State/Province (no need to figure out county) [Table]
+- list of total individual counties [List]
+- table with number of attendees per county [Table]
